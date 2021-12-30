@@ -1,0 +1,59 @@
+body {
+    background-image: url(mobile-phone-gbf4d0c569_1920.jpg);
+    height: 1000px;
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+.new1{
+    position: absolute;
+    top: 0px;
+  right: 0px;
+   font: red ;
+   
+}
+.mmm{
+width: 60px;
+height: 25px;
+font-size: 20px;
+}
+
+
+
+
+.new{
+    display: none;
+    color: rgb(225, 223, 236);
+    padding-top: 10px;
+   
+  
+    
+}
+
+.m{
+    color: rgb(41, 8, 160);
+    font-size: 100px;
+    text-align: center;
+    padding: 10px;
+    margin: 100px;
+}
+.table{
+    font-size: 50px;
+    color: rgb(248, 238, 238);
+    text-align: center;
+}
+.t1 {
+    font-size: 50px;
+    color: rgba(161, 4, 4, 0.973);
+
+}
+.m2{
+    text-align: center;
+    color: #1310c4;
+font-size: 50px;
+}
+.pc{color: blue;}
+.img{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
